@@ -1,3 +1,5 @@
+![GithubBanner](https://user-images.githubusercontent.com/99515673/229996002-7895c956-76e0-4473-bb41-8e6b89b27068.jpg)
+
 <h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
