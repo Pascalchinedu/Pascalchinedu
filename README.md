@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/youngpascal90" target="blank"><img src="https://img.shields.io/twitter/follow/youngpascal90?logo=twitter&style=for-the-badge" alt="youngpascal90" /></a> </p>
 
-- 🌱 An aspiring **Software Engineer**
+- 🌱 An aspiring **Software Engineering**
 
 - 📫 How to reach me **pascalchinedu2000@gmail.com**
 
@@ -26,4 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pascalchinedu&show_icons=true&locale=en&layout=compact" alt="pascalchinedu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascalchinedu&show_icons=true&locale=en" alt="pascalchinedu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pascalchinedu&" alt="pascalchinedu" /></p>
 
