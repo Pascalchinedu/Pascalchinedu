@@ -1,6 +1,5 @@
 ![GithubBanner](https://user-images.githubusercontent.com/99515673/229996002-7895c956-76e0-4473-bb41-8e6b89b27068.jpg)
 
-<h1 align="center">Hi 👋, I'm Pascal</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vrpmnsjtpaahe5m26st8sr92bp3f4lpaxxby1laa&rid=giphy.gif&ct=g">
